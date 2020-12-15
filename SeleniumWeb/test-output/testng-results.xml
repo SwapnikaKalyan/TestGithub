@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-06T12:53:06 NZDT" name="Default suite" finished-at="2020-11-06T12:54:33 NZDT" duration-ms="86771">
+    <groups>
+      <group name="admin">
+        <method signature="testNG_Framework2.TC5()[pri:5, instance:testNG_Framework1.testNG_Framework2@30b7c004]" name="TC5" class="testNG_Framework1.testNG_Framework2"/>
+      </group> <!-- admin -->
+      <group name="login">
+        <method signature="testNG_Framework2.TC1()[pri:1, instance:testNG_Framework1.testNG_Framework2@30b7c004]" name="TC1" class="testNG_Framework1.testNG_Framework2"/>
+        <method signature="testNG_Framework2.TC2()[pri:2, instance:testNG_Framework1.testNG_Framework2@30b7c004]" name="TC2" class="testNG_Framework1.testNG_Framework2"/>
+        <method signature="testNG_Framework2.TC3()[pri:3, instance:testNG_Framework1.testNG_Framework2@30b7c004]" name="TC3" class="testNG_Framework1.testNG_Framework2"/>
+        <method signature="testNG_Framework2.TC4()[pri:4, instance:testNG_Framework1.testNG_Framework2@30b7c004]" name="TC4" class="testNG_Framework1.testNG_Framework2"/>
+      </group> <!-- login -->
+    </groups>
+    <test started-at="2020-11-06T12:53:06 NZDT" name="Default test" finished-at="2020-11-06T12:54:33 NZDT" duration-ms="86771">
+      <class name="testNG_Framework1.testNG_Framework2">
+        <test-method is-config="true" signature="buildexecution()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:06 NZDT" name="buildexecution" finished-at="2020-11-06T12:53:18 NZDT" duration-ms="11390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildexecution -->
+        <test-method signature="TC1()[pri:1, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:18 NZDT" name="TC1" finished-at="2020-11-06T12:53:23 NZDT" duration-ms="5563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="buildclose()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:23 NZDT" name="buildclose" finished-at="2020-11-06T12:53:24 NZDT" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildclose -->
+        <test-method is-config="true" signature="buildexecution()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:24 NZDT" name="buildexecution" finished-at="2020-11-06T12:53:29 NZDT" duration-ms="5596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildexecution -->
+        <test-method signature="TC2()[pri:2, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:29 NZDT" name="TC2" finished-at="2020-11-06T12:53:30 NZDT" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="buildclose()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:30 NZDT" name="buildclose" finished-at="2020-11-06T12:53:30 NZDT" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildclose -->
+        <test-method is-config="true" signature="buildexecution()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:30 NZDT" name="buildexecution" finished-at="2020-11-06T12:53:36 NZDT" duration-ms="5872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildexecution -->
+        <test-method signature="TC3()[pri:3, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:36 NZDT" name="TC3" finished-at="2020-11-06T12:53:37 NZDT" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method is-config="true" signature="buildclose()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:37 NZDT" name="buildclose" finished-at="2020-11-06T12:53:37 NZDT" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildclose -->
+        <test-method is-config="true" signature="buildexecution()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:37 NZDT" name="buildexecution" finished-at="2020-11-06T12:53:42 NZDT" duration-ms="5455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildexecution -->
+        <test-method signature="TC4()[pri:4, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:42 NZDT" name="TC4" finished-at="2020-11-06T12:53:43 NZDT" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method is-config="true" signature="buildclose()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:43 NZDT" name="buildclose" finished-at="2020-11-06T12:53:43 NZDT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildclose -->
+        <test-method is-config="true" signature="buildexecution()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:43 NZDT" name="buildexecution" finished-at="2020-11-06T12:53:49 NZDT" duration-ms="5515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildexecution -->
+        <test-method signature="TC5()[pri:5, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:49 NZDT" name="TC5" finished-at="2020-11-06T12:53:53 NZDT" duration-ms="4402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+        <test-method is-config="true" signature="buildclose()[pri:0, instance:testNG_Framework1.testNG_Framework2@30b7c004]" started-at="2020-11-06T12:53:53 NZDT" name="buildclose" finished-at="2020-11-06T12:53:54 NZDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildclose -->
+      </class> <!-- testNG_Framework1.testNG_Framework2 -->
+      <class name="testNG_Framework1.Framework">
+        <test-method signature="TC1_Valid_Login()[pri:0, instance:testNG_Framework1.Framework@79efed2d]" started-at="2020-11-06T12:53:54 NZDT" name="TC1_Valid_Login" finished-at="2020-11-06T12:54:04 NZDT" duration-ms="9944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_Valid_Login -->
+        <test-method signature="TC2_Invalid_Password()[pri:0, instance:testNG_Framework1.Framework@79efed2d]" started-at="2020-11-06T12:54:04 NZDT" name="TC2_Invalid_Password" finished-at="2020-11-06T12:54:10 NZDT" duration-ms="6697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2_Invalid_Password -->
+        <test-method signature="TC3_Invalid_Username()[pri:0, instance:testNG_Framework1.Framework@79efed2d]" started-at="2020-11-06T12:54:10 NZDT" name="TC3_Invalid_Username" finished-at="2020-11-06T12:54:17 NZDT" duration-ms="6378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3_Invalid_Username -->
+        <test-method signature="TC4_Invalid_Username_and_Password()[pri:0, instance:testNG_Framework1.Framework@79efed2d]" started-at="2020-11-06T12:54:17 NZDT" name="TC4_Invalid_Username_and_Password" finished-at="2020-11-06T12:54:23 NZDT" duration-ms="6556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4_Invalid_Username_and_Password -->
+        <test-method signature="TC5_Logout()[pri:0, instance:testNG_Framework1.Framework@79efed2d]" started-at="2020-11-06T12:54:23 NZDT" name="TC5_Logout" finished-at="2020-11-06T12:54:33 NZDT" duration-ms="9953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5_Logout -->
+      </class> <!-- testNG_Framework1.Framework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
